@@ -8,6 +8,7 @@ public class GitCalculatorUtility {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			System.out.println("Welcome to new calculator class");
+			System.out.println("more code added..");
 	}
 
 }
